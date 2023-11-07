@@ -1,0 +1,1 @@
+docker build -t eshopping -f "Services/Basket/Dockerfile" .
